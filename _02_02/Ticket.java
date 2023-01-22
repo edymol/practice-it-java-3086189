@@ -4,7 +4,7 @@ public class Ticket {
   public Ticket() {
   }
 
-  private String destination = "";
-  private double price = 0.0;
-  private boolean isRetrun = true;
+  private String destination;
+  private double price;
+  private boolean isRetrun;
 }
